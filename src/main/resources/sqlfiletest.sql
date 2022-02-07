@@ -1,0 +1,1 @@
+insert into users VALUES (3,'fuckfuck', '$2a$11$uSXS6rLJ91WjgOHhEGDx..VGs7MkKZV68Lv5r1uwFu7HgtRn3dcXG')
